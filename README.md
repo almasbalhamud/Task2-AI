@@ -31,10 +31,15 @@ pip install opencv-python
 
 ⸻
 3️⃣ تشغيل الكود
+
 	•	من خلال Anaconda:
+ 
 1️⃣ شغّل VS Code Terminal أو Anaconda Prompt.
+
 2️⃣ انتقل إلى مجلد المشروع الذي أعددته مسبقًا.
+
 3️⃣ شغّل الكود :
+
 python smile_detect.py
 
 ## ▶️ طريقة التشغيل
